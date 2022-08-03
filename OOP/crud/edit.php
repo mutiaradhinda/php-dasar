@@ -23,7 +23,7 @@ else
 <input type="hidden" name="id_barang" value="<?php echo $data_barang['id_barang']; ?>"/>
 <table>
 	<tr>
-		<td>Nama Barang</td>
+		<td>Nama Barang satuan</td>
 		<td>:</td>
 		<td><input type="text" name="nama_barang" value="<?php echo $data_barang['nama_barang']; ?>"/></td>
 	</tr>
